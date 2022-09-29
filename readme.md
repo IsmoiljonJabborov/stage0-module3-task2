@@ -2,7 +2,7 @@
 ## Tasks:
 #### 1) Java variable names.
 Make the program work (var starts with 1, $, % etc).
-Update given code so as to be able to compile it:
+Update given code to be able to compile it:
 
 
     public class JavaVariableNames {
